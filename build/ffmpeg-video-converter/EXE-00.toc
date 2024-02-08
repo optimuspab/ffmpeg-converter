@@ -1,10 +1,10 @@
 ('C:\\Users\\Pablo '
  'Guillermet\\Documents\\ffmpeg\\dist\\ffmpeg-video-converter.exe',
- True,
+ False,
  False,
  False,
  'C:\\Users\\Pablo '
- 'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ 'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-windowed.ico',
  None,
  False,
  False,
@@ -3892,10 +3892,10 @@
  [],
  False,
  False,
- 1707418939,
- [('run.exe',
+ 1707420297,
+ [('runw.exe',
    'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
  'C:\\Users\\Pablo '
  'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')
