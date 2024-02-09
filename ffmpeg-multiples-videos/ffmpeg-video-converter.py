@@ -25,7 +25,12 @@ def seleccionar_archivos():
         threading.Thread(target=procesar_archivos, args=(files_to_process,)).start()
 
 app = tk.Tk()
-app.title("Convertidor de Video")
+app.title("ffmpeg video Converter")
+app.geometry("270x200")
+app.resizable(True, True)
+
+label = tk.Label(app, wraplength=200, text="Selecciona el video o videos a convertir con ffmpeg\n")
+label.pack(pady=20)
 
 btn_seleccionar = tk.Button(app, text="Seleccionar Video", command=seleccionar_archivos)
 btn_seleccionar.pack(pady=20)

@@ -1,2170 +1,1479 @@
-('C:\\Users\\Pablo '
- 'Guillermet\\Documents\\ffmpeg\\ffmpeg-multiples-videos\\build\\ffmpeg-video-converter\\PYZ-00.pyz',
+('C:\\Users\\pablo\\OneDrive\\Documents\\GitHub\\ffmpeg-converter\\ffmpeg-multiples-videos\\build\\ffmpeg-video-converter\\PYZ-00.pyz',
  [('__future__',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'C:\\Program Files\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
   ('_aix_support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'C:\\Program Files\\Python312\\Lib\\_aix_support.py',
    'PYMODULE'),
   ('_compat_pickle',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'C:\\Program Files\\Python312\\Lib\\_compat_pickle.py',
    'PYMODULE'),
   ('_compression',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'C:\\Program Files\\Python312\\Lib\\_compression.py',
    'PYMODULE'),
   ('_distutils_hack',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\_distutils_hack\\__init__.py',
    'PYMODULE'),
   ('_distutils_hack.override',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\_distutils_hack\\override.py',
    'PYMODULE'),
   ('_osx_support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_osx_support.py',
+   'C:\\Program Files\\Python312\\Lib\\_osx_support.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
-   'PYMODULE'),
+  ('_py_abc', 'C:\\Program Files\\Python312\\Lib\\_py_abc.py', 'PYMODULE'),
   ('_pydatetime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'C:\\Program Files\\Python312\\Lib\\_pydatetime.py',
    'PYMODULE'),
   ('_pydecimal',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'C:\\Program Files\\Python312\\Lib\\_pydecimal.py',
    'PYMODULE'),
   ('_pyi_rth_utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
   ('_sitebuiltins',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
+   'C:\\Program Files\\Python312\\Lib\\_sitebuiltins.py',
    'PYMODULE'),
-  ('_strptime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
-   'PYMODULE'),
+  ('_strptime', 'C:\\Program Files\\Python312\\Lib\\_strptime.py', 'PYMODULE'),
   ('_threading_local',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'C:\\Program Files\\Python312\\Lib\\_threading_local.py',
    'PYMODULE'),
-  ('argparse',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
-   'PYMODULE'),
-  ('ast',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
-   'PYMODULE'),
+  ('argparse', 'C:\\Program Files\\Python312\\Lib\\argparse.py', 'PYMODULE'),
+  ('ast', 'C:\\Program Files\\Python312\\Lib\\ast.py', 'PYMODULE'),
   ('asyncio',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\__init__.py',
    'PYMODULE'),
   ('asyncio.base_events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_events.py',
    'PYMODULE'),
   ('asyncio.base_futures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_futures.py',
    'PYMODULE'),
   ('asyncio.base_subprocess',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_subprocess.py',
    'PYMODULE'),
   ('asyncio.base_tasks',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\base_tasks.py',
    'PYMODULE'),
   ('asyncio.constants',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\constants.py',
    'PYMODULE'),
   ('asyncio.coroutines',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\coroutines.py',
    'PYMODULE'),
   ('asyncio.events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\events.py',
    'PYMODULE'),
   ('asyncio.exceptions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\exceptions.py',
    'PYMODULE'),
   ('asyncio.format_helpers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\format_helpers.py',
    'PYMODULE'),
   ('asyncio.futures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\futures.py',
    'PYMODULE'),
   ('asyncio.locks',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\locks.py',
    'PYMODULE'),
   ('asyncio.log',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\log.py',
    'PYMODULE'),
   ('asyncio.mixins',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\mixins.py',
    'PYMODULE'),
   ('asyncio.proactor_events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\proactor_events.py',
    'PYMODULE'),
   ('asyncio.protocols',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\protocols.py',
    'PYMODULE'),
   ('asyncio.queues',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\queues.py',
    'PYMODULE'),
   ('asyncio.runners',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\runners.py',
    'PYMODULE'),
   ('asyncio.selector_events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\selector_events.py',
    'PYMODULE'),
   ('asyncio.sslproto',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\sslproto.py',
    'PYMODULE'),
   ('asyncio.staggered',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\staggered.py',
    'PYMODULE'),
   ('asyncio.streams',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\streams.py',
    'PYMODULE'),
   ('asyncio.subprocess',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\subprocess.py',
    'PYMODULE'),
   ('asyncio.taskgroups',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\taskgroups.py',
    'PYMODULE'),
   ('asyncio.tasks',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\tasks.py',
    'PYMODULE'),
   ('asyncio.threads',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\threads.py',
    'PYMODULE'),
   ('asyncio.timeouts',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\timeouts.py',
    'PYMODULE'),
   ('asyncio.transports',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\transports.py',
    'PYMODULE'),
   ('asyncio.trsock',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\trsock.py',
    'PYMODULE'),
   ('asyncio.unix_events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\unix_events.py',
    'PYMODULE'),
   ('asyncio.windows_events',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_events.py',
    'PYMODULE'),
   ('asyncio.windows_utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'C:\\Program Files\\Python312\\Lib\\asyncio\\windows_utils.py',
    'PYMODULE'),
-  ('base64',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
-   'PYMODULE'),
-  ('bisect',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
-   'PYMODULE'),
-  ('bz2',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
-   'PYMODULE'),
-  ('calendar',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
-   'PYMODULE'),
-  ('cgi',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cgi.py',
-   'PYMODULE'),
+  ('base64', 'C:\\Program Files\\Python312\\Lib\\base64.py', 'PYMODULE'),
+  ('bisect', 'C:\\Program Files\\Python312\\Lib\\bisect.py', 'PYMODULE'),
+  ('bz2', 'C:\\Program Files\\Python312\\Lib\\bz2.py', 'PYMODULE'),
+  ('calendar', 'C:\\Program Files\\Python312\\Lib\\calendar.py', 'PYMODULE'),
+  ('cgi', 'C:\\Program Files\\Python312\\Lib\\cgi.py', 'PYMODULE'),
   ('concurrent',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\__init__.py',
    'PYMODULE'),
   ('concurrent.futures._base',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\_base.py',
    'PYMODULE'),
   ('concurrent.futures.process',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\process.py',
    'PYMODULE'),
   ('concurrent.futures.thread',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'C:\\Program Files\\Python312\\Lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('configparser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'C:\\Program Files\\Python312\\Lib\\configparser.py',
    'PYMODULE'),
   ('contextlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'C:\\Program Files\\Python312\\Lib\\contextlib.py',
    'PYMODULE'),
   ('contextvars',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'C:\\Program Files\\Python312\\Lib\\contextvars.py',
    'PYMODULE'),
-  ('copy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
-   'PYMODULE'),
-  ('csv',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
-   'PYMODULE'),
+  ('copy', 'C:\\Program Files\\Python312\\Lib\\copy.py', 'PYMODULE'),
+  ('csv', 'C:\\Program Files\\Python312\\Lib\\csv.py', 'PYMODULE'),
   ('ctypes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\__init__.py',
    'PYMODULE'),
   ('ctypes._aix',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\_aix.py',
    'PYMODULE'),
   ('ctypes._endian',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('ctypes.macholib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
    'PYMODULE'),
   ('ctypes.macholib.dyld',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
    'PYMODULE'),
   ('ctypes.macholib.dylib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
    'PYMODULE'),
   ('ctypes.macholib.framework',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
   ('ctypes.util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\util.py',
    'PYMODULE'),
   ('ctypes.wintypes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'C:\\Program Files\\Python312\\Lib\\ctypes\\wintypes.py',
    'PYMODULE'),
   ('dataclasses',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'C:\\Program Files\\Python312\\Lib\\dataclasses.py',
    'PYMODULE'),
-  ('datetime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
-   'PYMODULE'),
-  ('dbm',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dbm\\__init__.py',
-   'PYMODULE'),
-  ('dbm.dumb',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dbm\\dumb.py',
-   'PYMODULE'),
-  ('dbm.gnu',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dbm\\gnu.py',
-   'PYMODULE'),
-  ('dbm.ndbm',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dbm\\ndbm.py',
-   'PYMODULE'),
-  ('decimal',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
-   'PYMODULE'),
-  ('difflib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
-   'PYMODULE'),
-  ('dis',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
-   'PYMODULE'),
+  ('datetime', 'C:\\Program Files\\Python312\\Lib\\datetime.py', 'PYMODULE'),
+  ('dbm', 'C:\\Program Files\\Python312\\Lib\\dbm\\__init__.py', 'PYMODULE'),
+  ('dbm.dumb', 'C:\\Program Files\\Python312\\Lib\\dbm\\dumb.py', 'PYMODULE'),
+  ('dbm.gnu', 'C:\\Program Files\\Python312\\Lib\\dbm\\gnu.py', 'PYMODULE'),
+  ('dbm.ndbm', 'C:\\Program Files\\Python312\\Lib\\dbm\\ndbm.py', 'PYMODULE'),
+  ('decimal', 'C:\\Program Files\\Python312\\Lib\\decimal.py', 'PYMODULE'),
+  ('difflib', 'C:\\Program Files\\Python312\\Lib\\difflib.py', 'PYMODULE'),
+  ('dis', 'C:\\Program Files\\Python312\\Lib\\dis.py', 'PYMODULE'),
   ('email',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\__init__.py',
    'PYMODULE'),
   ('email._encoded_words',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\_encoded_words.py',
    'PYMODULE'),
   ('email._header_value_parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\_header_value_parser.py',
    'PYMODULE'),
   ('email._parseaddr',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\_parseaddr.py',
    'PYMODULE'),
   ('email._policybase',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\_policybase.py',
    'PYMODULE'),
   ('email.base64mime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\base64mime.py',
    'PYMODULE'),
   ('email.charset',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\charset.py',
    'PYMODULE'),
   ('email.contentmanager',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\contentmanager.py',
    'PYMODULE'),
   ('email.encoders',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\encoders.py',
    'PYMODULE'),
   ('email.errors',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\errors.py',
    'PYMODULE'),
   ('email.feedparser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\feedparser.py',
    'PYMODULE'),
   ('email.generator',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\generator.py',
    'PYMODULE'),
   ('email.header',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\header.py',
    'PYMODULE'),
   ('email.headerregistry',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\headerregistry.py',
    'PYMODULE'),
   ('email.iterators',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\iterators.py',
    'PYMODULE'),
   ('email.message',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\message.py',
    'PYMODULE'),
   ('email.parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\parser.py',
    'PYMODULE'),
   ('email.policy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\policy.py',
    'PYMODULE'),
   ('email.quoprimime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\quoprimime.py',
    'PYMODULE'),
   ('email.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'C:\\Program Files\\Python312\\Lib\\email\\utils.py',
    'PYMODULE'),
   ('ffmpeg',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\__init__.py',
    'PYMODULE'),
   ('ffmpeg._ffmpeg',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_ffmpeg.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_ffmpeg.py',
    'PYMODULE'),
   ('ffmpeg._filters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_filters.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_filters.py',
    'PYMODULE'),
   ('ffmpeg._probe',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_probe.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_probe.py',
    'PYMODULE'),
   ('ffmpeg._run',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_run.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_run.py',
    'PYMODULE'),
   ('ffmpeg._utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_utils.py',
    'PYMODULE'),
   ('ffmpeg._view',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\_view.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\_view.py',
    'PYMODULE'),
   ('ffmpeg.dag',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\dag.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\dag.py',
    'PYMODULE'),
   ('ffmpeg.nodes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ffmpeg\\nodes.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\ffmpeg\\nodes.py',
    'PYMODULE'),
-  ('fnmatch',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
-   'PYMODULE'),
-  ('fractions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
-   'PYMODULE'),
-  ('ftplib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
-   'PYMODULE'),
+  ('fnmatch', 'C:\\Program Files\\Python312\\Lib\\fnmatch.py', 'PYMODULE'),
+  ('fractions', 'C:\\Program Files\\Python312\\Lib\\fractions.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Program Files\\Python312\\Lib\\ftplib.py', 'PYMODULE'),
   ('future',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\__init__.py',
    'PYMODULE'),
   ('future.backports',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\__init__.py',
    'PYMODULE'),
   ('future.backports.datetime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\datetime.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\datetime.py',
    'PYMODULE'),
   ('future.backports.email',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\__init__.py',
    'PYMODULE'),
   ('future.backports.email._encoded_words',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\_encoded_words.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\_encoded_words.py',
    'PYMODULE'),
   ('future.backports.email._parseaddr',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\_parseaddr.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\_parseaddr.py',
    'PYMODULE'),
   ('future.backports.email._policybase',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\_policybase.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\_policybase.py',
    'PYMODULE'),
   ('future.backports.email.base64mime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\base64mime.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\base64mime.py',
    'PYMODULE'),
   ('future.backports.email.charset',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\charset.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\charset.py',
    'PYMODULE'),
   ('future.backports.email.encoders',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\encoders.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\encoders.py',
    'PYMODULE'),
   ('future.backports.email.errors',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\errors.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\errors.py',
    'PYMODULE'),
   ('future.backports.email.feedparser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\feedparser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\feedparser.py',
    'PYMODULE'),
   ('future.backports.email.generator',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\generator.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\generator.py',
    'PYMODULE'),
   ('future.backports.email.header',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\header.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\header.py',
    'PYMODULE'),
   ('future.backports.email.iterators',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\iterators.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\iterators.py',
    'PYMODULE'),
   ('future.backports.email.message',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\message.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\message.py',
    'PYMODULE'),
   ('future.backports.email.parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\parser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\parser.py',
    'PYMODULE'),
   ('future.backports.email.quoprimime',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\quoprimime.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\quoprimime.py',
    'PYMODULE'),
   ('future.backports.email.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\email\\utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\email\\utils.py',
    'PYMODULE'),
   ('future.backports.http',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\http\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\http\\__init__.py',
    'PYMODULE'),
   ('future.backports.http.client',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\http\\client.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\http\\client.py',
    'PYMODULE'),
   ('future.backports.http.cookiejar',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\http\\cookiejar.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\http\\cookiejar.py',
    'PYMODULE'),
   ('future.backports.misc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\misc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\misc.py',
    'PYMODULE'),
   ('future.backports.urllib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\__init__.py',
    'PYMODULE'),
   ('future.backports.urllib.error',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\error.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\error.py',
    'PYMODULE'),
   ('future.backports.urllib.parse',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\parse.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\parse.py',
    'PYMODULE'),
   ('future.backports.urllib.request',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\request.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\request.py',
    'PYMODULE'),
   ('future.backports.urllib.response',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\response.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\response.py',
    'PYMODULE'),
   ('future.backports.urllib.robotparser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\backports\\urllib\\robotparser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\backports\\urllib\\robotparser.py',
    'PYMODULE'),
   ('future.builtins',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\__init__.py',
    'PYMODULE'),
   ('future.builtins.iterators',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\iterators.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\iterators.py',
    'PYMODULE'),
   ('future.builtins.misc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\misc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\misc.py',
    'PYMODULE'),
   ('future.builtins.new_min_max',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\new_min_max.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\new_min_max.py',
    'PYMODULE'),
   ('future.builtins.newnext',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\newnext.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\newnext.py',
    'PYMODULE'),
   ('future.builtins.newround',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\newround.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\newround.py',
    'PYMODULE'),
   ('future.builtins.newsuper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\builtins\\newsuper.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\builtins\\newsuper.py',
    'PYMODULE'),
   ('future.moves',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\__init__.py',
    'PYMODULE'),
   ('future.moves.dbm',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\dbm\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\dbm\\__init__.py',
    'PYMODULE'),
   ('future.moves.dbm.dumb',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\dbm\\dumb.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\dbm\\dumb.py',
    'PYMODULE'),
   ('future.moves.dbm.gnu',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\dbm\\gnu.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\dbm\\gnu.py',
    'PYMODULE'),
   ('future.moves.dbm.ndbm',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\dbm\\ndbm.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\dbm\\ndbm.py',
    'PYMODULE'),
   ('future.moves.test',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\test\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\test\\__init__.py',
    'PYMODULE'),
   ('future.moves.test.support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\moves\\test\\support.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\moves\\test\\support.py',
    'PYMODULE'),
   ('future.standard_library',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\standard_library\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\standard_library\\__init__.py',
    'PYMODULE'),
   ('future.types',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\__init__.py',
    'PYMODULE'),
   ('future.types.newbytes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newbytes.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newbytes.py',
    'PYMODULE'),
   ('future.types.newdict',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newdict.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newdict.py',
    'PYMODULE'),
   ('future.types.newint',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newint.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newint.py',
    'PYMODULE'),
   ('future.types.newlist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newlist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newlist.py',
    'PYMODULE'),
   ('future.types.newobject',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newobject.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newobject.py',
    'PYMODULE'),
   ('future.types.newrange',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newrange.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newrange.py',
    'PYMODULE'),
   ('future.types.newstr',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\types\\newstr.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\types\\newstr.py',
    'PYMODULE'),
   ('future.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\utils\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\utils\\__init__.py',
    'PYMODULE'),
   ('future.utils.surrogateescape',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\future\\utils\\surrogateescape.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\future\\utils\\surrogateescape.py',
    'PYMODULE'),
-  ('getopt',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
-   'PYMODULE'),
-  ('getpass',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
-   'PYMODULE'),
-  ('gettext',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
-   'PYMODULE'),
-  ('glob',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
-   'PYMODULE'),
-  ('gzip',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
-   'PYMODULE'),
-  ('hashlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
-   'PYMODULE'),
-  ('hmac',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
-   'PYMODULE'),
-  ('html',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
-   'PYMODULE'),
+  ('getopt', 'C:\\Program Files\\Python312\\Lib\\getopt.py', 'PYMODULE'),
+  ('getpass', 'C:\\Program Files\\Python312\\Lib\\getpass.py', 'PYMODULE'),
+  ('gettext', 'C:\\Program Files\\Python312\\Lib\\gettext.py', 'PYMODULE'),
+  ('glob', 'C:\\Program Files\\Python312\\Lib\\glob.py', 'PYMODULE'),
+  ('gzip', 'C:\\Program Files\\Python312\\Lib\\gzip.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Program Files\\Python312\\Lib\\hashlib.py', 'PYMODULE'),
+  ('hmac', 'C:\\Program Files\\Python312\\Lib\\hmac.py', 'PYMODULE'),
+  ('html', 'C:\\Program Files\\Python312\\Lib\\html\\__init__.py', 'PYMODULE'),
   ('html.entities',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'C:\\Program Files\\Python312\\Lib\\html\\entities.py',
    'PYMODULE'),
-  ('http',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
-   'PYMODULE'),
+  ('http', 'C:\\Program Files\\Python312\\Lib\\http\\__init__.py', 'PYMODULE'),
   ('http.client',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'C:\\Program Files\\Python312\\Lib\\http\\client.py',
    'PYMODULE'),
   ('http.cookiejar',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'C:\\Program Files\\Python312\\Lib\\http\\cookiejar.py',
    'PYMODULE'),
   ('http.server',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'C:\\Program Files\\Python312\\Lib\\http\\server.py',
    'PYMODULE'),
   ('importlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\__init__.py',
    'PYMODULE'),
   ('importlib._abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_abc.py',
    'PYMODULE'),
   ('importlib._bootstrap',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap.py',
    'PYMODULE'),
   ('importlib._bootstrap_external',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\_bootstrap_external.py',
    'PYMODULE'),
   ('importlib.abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\abc.py',
    'PYMODULE'),
   ('importlib.machinery',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\machinery.py',
    'PYMODULE'),
   ('importlib.metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\__init__.py',
    'PYMODULE'),
   ('importlib.metadata._adapters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
    'PYMODULE'),
   ('importlib.metadata._collections',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_collections.py',
    'PYMODULE'),
   ('importlib.metadata._functools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_functools.py',
    'PYMODULE'),
   ('importlib.metadata._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
    'PYMODULE'),
   ('importlib.metadata._meta',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_meta.py',
    'PYMODULE'),
   ('importlib.metadata._text',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\metadata\\_text.py',
    'PYMODULE'),
   ('importlib.readers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\readers.py',
    'PYMODULE'),
   ('importlib.resources',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\__init__.py',
    'PYMODULE'),
   ('importlib.resources._adapters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_adapters.py',
    'PYMODULE'),
   ('importlib.resources._common',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_common.py',
    'PYMODULE'),
   ('importlib.resources._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_itertools.py',
    'PYMODULE'),
   ('importlib.resources._legacy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\_legacy.py',
    'PYMODULE'),
   ('importlib.resources.abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\abc.py',
    'PYMODULE'),
   ('importlib.resources.readers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\resources\\readers.py',
    'PYMODULE'),
   ('importlib.util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'C:\\Program Files\\Python312\\Lib\\importlib\\util.py',
    'PYMODULE'),
-  ('inspect',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
-   'PYMODULE'),
-  ('ipaddress',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
-   'PYMODULE'),
-  ('json',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
-   'PYMODULE'),
+  ('inspect', 'C:\\Program Files\\Python312\\Lib\\inspect.py', 'PYMODULE'),
+  ('ipaddress', 'C:\\Program Files\\Python312\\Lib\\ipaddress.py', 'PYMODULE'),
+  ('json', 'C:\\Program Files\\Python312\\Lib\\json\\__init__.py', 'PYMODULE'),
   ('json.decoder',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'C:\\Program Files\\Python312\\Lib\\json\\decoder.py',
    'PYMODULE'),
   ('json.encoder',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'C:\\Program Files\\Python312\\Lib\\json\\encoder.py',
    'PYMODULE'),
   ('json.scanner',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'C:\\Program Files\\Python312\\Lib\\json\\scanner.py',
    'PYMODULE'),
   ('logging',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\logging\\__init__.py',
    'PYMODULE'),
-  ('lzma',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
-   'PYMODULE'),
-  ('mimetypes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
-   'PYMODULE'),
+  ('lzma', 'C:\\Program Files\\Python312\\Lib\\lzma.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Program Files\\Python312\\Lib\\mimetypes.py', 'PYMODULE'),
   ('multiprocessing',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('multiprocessing.connection',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\connection.py',
    'PYMODULE'),
   ('multiprocessing.context',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\context.py',
    'PYMODULE'),
   ('multiprocessing.dummy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
    'PYMODULE'),
   ('multiprocessing.dummy.connection',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
    'PYMODULE'),
   ('multiprocessing.forkserver',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\forkserver.py',
    'PYMODULE'),
   ('multiprocessing.heap',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\heap.py',
    'PYMODULE'),
   ('multiprocessing.managers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\managers.py',
    'PYMODULE'),
   ('multiprocessing.pool',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\pool.py',
    'PYMODULE'),
   ('multiprocessing.popen_fork',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_fork.py',
    'PYMODULE'),
   ('multiprocessing.popen_forkserver',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_posix',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
    'PYMODULE'),
   ('multiprocessing.popen_spawn_win32',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
    'PYMODULE'),
   ('multiprocessing.process',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\process.py',
    'PYMODULE'),
   ('multiprocessing.queues',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\queues.py',
    'PYMODULE'),
   ('multiprocessing.reduction',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\reduction.py',
    'PYMODULE'),
   ('multiprocessing.resource_sharer',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
    'PYMODULE'),
   ('multiprocessing.resource_tracker',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
    'PYMODULE'),
   ('multiprocessing.shared_memory',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\shared_memory.py',
    'PYMODULE'),
   ('multiprocessing.sharedctypes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
    'PYMODULE'),
   ('multiprocessing.spawn',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\spawn.py',
    'PYMODULE'),
   ('multiprocessing.synchronize',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\synchronize.py',
    'PYMODULE'),
   ('multiprocessing.util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'C:\\Program Files\\Python312\\Lib\\multiprocessing\\util.py',
    'PYMODULE'),
-  ('netrc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
-   'PYMODULE'),
+  ('netrc', 'C:\\Program Files\\Python312\\Lib\\netrc.py', 'PYMODULE'),
   ('nturl2path',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'C:\\Program Files\\Python312\\Lib\\nturl2path.py',
    'PYMODULE'),
-  ('numbers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
-   'PYMODULE'),
-  ('opcode',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
-   'PYMODULE'),
-  ('optparse',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\optparse.py',
-   'PYMODULE'),
+  ('numbers', 'C:\\Program Files\\Python312\\Lib\\numbers.py', 'PYMODULE'),
+  ('opcode', 'C:\\Program Files\\Python312\\Lib\\opcode.py', 'PYMODULE'),
+  ('optparse', 'C:\\Program Files\\Python312\\Lib\\optparse.py', 'PYMODULE'),
   ('packaging',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\__init__.py',
    'PYMODULE'),
   ('packaging._elffile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_elffile.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_elffile.py',
    'PYMODULE'),
   ('packaging._manylinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('packaging._musllinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('packaging._parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_parser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_parser.py',
    'PYMODULE'),
   ('packaging._structures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_structures.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_structures.py',
    'PYMODULE'),
   ('packaging._tokenizer',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\_tokenizer.py',
    'PYMODULE'),
   ('packaging.markers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\markers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\markers.py',
    'PYMODULE'),
   ('packaging.metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\metadata.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\metadata.py',
    'PYMODULE'),
   ('packaging.requirements',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\requirements.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\requirements.py',
    'PYMODULE'),
   ('packaging.specifiers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\specifiers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\specifiers.py',
    'PYMODULE'),
   ('packaging.tags',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\tags.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\tags.py',
    'PYMODULE'),
   ('packaging.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\utils.py',
    'PYMODULE'),
   ('packaging.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\packaging\\version.py',
    'PYMODULE'),
   ('past',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\__init__.py',
    'PYMODULE'),
   ('past.builtins',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\builtins\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\builtins\\__init__.py',
    'PYMODULE'),
   ('past.builtins.misc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\builtins\\misc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\builtins\\misc.py',
    'PYMODULE'),
   ('past.builtins.noniterators',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\builtins\\noniterators.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\builtins\\noniterators.py',
    'PYMODULE'),
   ('past.types',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\types\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\types\\__init__.py',
    'PYMODULE'),
   ('past.types.basestring',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\types\\basestring.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\types\\basestring.py',
    'PYMODULE'),
   ('past.types.olddict',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\types\\olddict.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\types\\olddict.py',
    'PYMODULE'),
   ('past.types.oldstr',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\types\\oldstr.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\types\\oldstr.py',
    'PYMODULE'),
   ('past.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\past\\utils\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\past\\utils\\__init__.py',
    'PYMODULE'),
-  ('pathlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
-   'PYMODULE'),
-  ('pickle',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
-   'PYMODULE'),
+  ('pathlib', 'C:\\Program Files\\Python312\\Lib\\pathlib.py', 'PYMODULE'),
+  ('pickle', 'C:\\Program Files\\Python312\\Lib\\pickle.py', 'PYMODULE'),
   ('pkg_resources',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources._adapters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources._common',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources._compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources._legacy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources.abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources.readers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources.simple',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
    'PYMODULE'),
   ('pkg_resources._vendor.jaraco',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.jaraco.context',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
    'PYMODULE'),
   ('pkg_resources._vendor.jaraco.functools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
    'PYMODULE'),
   ('pkg_resources._vendor.jaraco.text',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.more_itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.more_itertools.more',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
    'PYMODULE'),
   ('pkg_resources._vendor.more_itertools.recipes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._elffile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._manylinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._musllinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._structures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._tokenizer',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.requirements',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.tags',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.__main__',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.android',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.api',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.macos',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.unix',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
    'PYMODULE'),
   ('pkg_resources._vendor.platformdirs.windows',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
    'PYMODULE'),
   ('pkg_resources._vendor.typing_extensions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
    'PYMODULE'),
   ('pkg_resources._vendor.zipp',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\_vendor\\zipp.py',
    'PYMODULE'),
   ('pkg_resources.extern',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\pkg_resources\\extern\\__init__.py',
    'PYMODULE'),
-  ('pkgutil',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
-   'PYMODULE'),
-  ('platform',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
-   'PYMODULE'),
-  ('plistlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\plistlib.py',
-   'PYMODULE'),
-  ('pprint',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
-   'PYMODULE'),
+  ('pkgutil', 'C:\\Program Files\\Python312\\Lib\\pkgutil.py', 'PYMODULE'),
+  ('platform', 'C:\\Program Files\\Python312\\Lib\\platform.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Program Files\\Python312\\Lib\\plistlib.py', 'PYMODULE'),
+  ('pprint', 'C:\\Program Files\\Python312\\Lib\\pprint.py', 'PYMODULE'),
   ('py_compile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'C:\\Program Files\\Python312\\Lib\\py_compile.py',
    'PYMODULE'),
-  ('pydoc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
-   'PYMODULE'),
+  ('pydoc', 'C:\\Program Files\\Python312\\Lib\\pydoc.py', 'PYMODULE'),
   ('pydoc_data',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\__init__.py',
    'PYMODULE'),
   ('pydoc_data.topics',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'C:\\Program Files\\Python312\\Lib\\pydoc_data\\topics.py',
    'PYMODULE'),
-  ('queue',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
-   'PYMODULE'),
-  ('quopri',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
-   'PYMODULE'),
-  ('random',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
-   'PYMODULE'),
+  ('queue', 'C:\\Program Files\\Python312\\Lib\\queue.py', 'PYMODULE'),
+  ('quopri', 'C:\\Program Files\\Python312\\Lib\\quopri.py', 'PYMODULE'),
+  ('random', 'C:\\Program Files\\Python312\\Lib\\random.py', 'PYMODULE'),
   ('rlcompleter',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'C:\\Program Files\\Python312\\Lib\\rlcompleter.py',
    'PYMODULE'),
-  ('runpy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
-   'PYMODULE'),
-  ('sched',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sched.py',
-   'PYMODULE'),
-  ('secrets',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
-   'PYMODULE'),
-  ('selectors',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
-   'PYMODULE'),
+  ('runpy', 'C:\\Program Files\\Python312\\Lib\\runpy.py', 'PYMODULE'),
+  ('sched', 'C:\\Program Files\\Python312\\Lib\\sched.py', 'PYMODULE'),
+  ('secrets', 'C:\\Program Files\\Python312\\Lib\\secrets.py', 'PYMODULE'),
+  ('selectors', 'C:\\Program Files\\Python312\\Lib\\selectors.py', 'PYMODULE'),
   ('setuptools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
   ('setuptools._core_metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_core_metadata.py',
    'PYMODULE'),
   ('setuptools._distutils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils._collections',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_collections.py',
    'PYMODULE'),
   ('setuptools._distutils._functools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_functools.py',
    'PYMODULE'),
   ('setuptools._distutils._log',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_log.py',
    'PYMODULE'),
   ('setuptools._distutils._macos_compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
    'PYMODULE'),
   ('setuptools._distutils._modified',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_modified.py',
    'PYMODULE'),
   ('setuptools._distutils._msvccompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.archive_util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\archive_util.py',
    'PYMODULE'),
   ('setuptools._distutils.bcppcompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.ccompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\ccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.cmd',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\cmd.py',
    'PYMODULE'),
   ('setuptools._distutils.command',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
    'PYMODULE'),
   ('setuptools._distutils.command._framework_compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
    'PYMODULE'),
   ('setuptools._distutils.command.bdist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
    'PYMODULE'),
   ('setuptools._distutils.command.bdist_dumb',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
    'PYMODULE'),
   ('setuptools._distutils.command.bdist_rpm',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\build.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_clib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_ext',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_py',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
    'PYMODULE'),
   ('setuptools._distutils.command.build_scripts',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
    'PYMODULE'),
   ('setuptools._distutils.command.check',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\check.py',
    'PYMODULE'),
   ('setuptools._distutils.command.clean',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\clean.py',
    'PYMODULE'),
   ('setuptools._distutils.command.config',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\config.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install_data',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install_egg_info',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install_headers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install_lib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
    'PYMODULE'),
   ('setuptools._distutils.command.install_scripts',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
    'PYMODULE'),
   ('setuptools._distutils.command.py37compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
    'PYMODULE'),
   ('setuptools._distutils.command.register',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\register.py',
    'PYMODULE'),
   ('setuptools._distutils.command.sdist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
    'PYMODULE'),
   ('setuptools._distutils.command.upload',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\command\\upload.py',
    'PYMODULE'),
   ('setuptools._distutils.config',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\config.py',
    'PYMODULE'),
   ('setuptools._distutils.core',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\core.py',
    'PYMODULE'),
   ('setuptools._distutils.cygwinccompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.debug',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\debug.py',
    'PYMODULE'),
   ('setuptools._distutils.dep_util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\dep_util.py',
    'PYMODULE'),
   ('setuptools._distutils.dir_util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\dir_util.py',
    'PYMODULE'),
   ('setuptools._distutils.dist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\dist.py',
    'PYMODULE'),
   ('setuptools._distutils.errors',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\errors.py',
    'PYMODULE'),
   ('setuptools._distutils.extension',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\extension.py',
    'PYMODULE'),
   ('setuptools._distutils.fancy_getopt',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
    'PYMODULE'),
   ('setuptools._distutils.file_util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\file_util.py',
    'PYMODULE'),
   ('setuptools._distutils.filelist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\filelist.py',
    'PYMODULE'),
   ('setuptools._distutils.log',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\log.py',
    'PYMODULE'),
   ('setuptools._distutils.msvc9compiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
    'PYMODULE'),
   ('setuptools._distutils.msvccompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.py38compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\py38compat.py',
    'PYMODULE'),
   ('setuptools._distutils.py39compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\py39compat.py',
    'PYMODULE'),
   ('setuptools._distutils.spawn',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\spawn.py',
    'PYMODULE'),
   ('setuptools._distutils.sysconfig',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\sysconfig.py',
    'PYMODULE'),
   ('setuptools._distutils.text_file',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\text_file.py',
    'PYMODULE'),
   ('setuptools._distutils.unixccompiler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
    'PYMODULE'),
   ('setuptools._distutils.util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\util.py',
    'PYMODULE'),
   ('setuptools._distutils.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\version.py',
    'PYMODULE'),
   ('setuptools._distutils.versionpredicate',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
    'PYMODULE'),
   ('setuptools._entry_points',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_entry_points.py',
    'PYMODULE'),
   ('setuptools._imp',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_imp.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_imp.py',
    'PYMODULE'),
   ('setuptools._importlib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_importlib.py',
    'PYMODULE'),
   ('setuptools._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_itertools.py',
    'PYMODULE'),
   ('setuptools._normalization',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_normalization.py',
    'PYMODULE'),
   ('setuptools._path',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_path.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_path.py',
    'PYMODULE'),
   ('setuptools._reqs',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_reqs.py',
    'PYMODULE'),
   ('setuptools._vendor',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._adapters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._collections',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._functools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._meta',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._py39compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_py39compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_py39compat.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_metadata._text',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources._adapters',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources._common',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources._compat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources._itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources._legacy',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources.abc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources.readers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
    'PYMODULE'),
   ('setuptools._vendor.importlib_resources.simple',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco.context',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco.functools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
    'PYMODULE'),
   ('setuptools._vendor.jaraco.text',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools.more',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
    'PYMODULE'),
   ('setuptools._vendor.more_itertools.recipes',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
    'PYMODULE'),
   ('setuptools._vendor.ordered_set',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\ordered_set.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._elffile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._manylinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._musllinux',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._structures',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging._tokenizer',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.markers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.metadata',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\metadata.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\metadata.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.requirements',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.specifiers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.tags',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._parser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._re',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
    'PYMODULE'),
   ('setuptools._vendor.tomli._types',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
    'PYMODULE'),
   ('setuptools._vendor.typing_extensions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
    'PYMODULE'),
   ('setuptools._vendor.zipp',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\_vendor\\zipp.py',
    'PYMODULE'),
   ('setuptools.archive_util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\archive_util.py',
    'PYMODULE'),
   ('setuptools.command',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\__init__.py',
    'PYMODULE'),
   ('setuptools.command._requirestxt',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\_requirestxt.py',
    'PYMODULE'),
   ('setuptools.command.bdist_egg',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\bdist_egg.py',
    'PYMODULE'),
   ('setuptools.command.build',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\build.py',
    'PYMODULE'),
   ('setuptools.command.egg_info',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\egg_info.py',
    'PYMODULE'),
   ('setuptools.command.sdist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\sdist.py',
    'PYMODULE'),
   ('setuptools.command.setopt',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\command\\setopt.py',
    'PYMODULE'),
   ('setuptools.config',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\__init__.py',
    'PYMODULE'),
   ('setuptools.config._apply_pyprojecttoml',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.error_reporting',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.extra_validations',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.fastjsonschema_validations',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
    'PYMODULE'),
   ('setuptools.config._validate_pyproject.formats',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
    'PYMODULE'),
   ('setuptools.config.expand',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\expand.py',
    'PYMODULE'),
   ('setuptools.config.pyprojecttoml',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\pyprojecttoml.py',
    'PYMODULE'),
   ('setuptools.config.setupcfg',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\config\\setupcfg.py',
    'PYMODULE'),
   ('setuptools.depends',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\depends.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\depends.py',
    'PYMODULE'),
   ('setuptools.discovery',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\discovery.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\discovery.py',
    'PYMODULE'),
   ('setuptools.dist',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\dist.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\dist.py',
    'PYMODULE'),
   ('setuptools.errors',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\errors.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\errors.py',
    'PYMODULE'),
   ('setuptools.extension',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\extension.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\extension.py',
    'PYMODULE'),
   ('setuptools.extern',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\extern\\__init__.py',
    'PYMODULE'),
   ('setuptools.glob',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\glob.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\glob.py',
    'PYMODULE'),
   ('setuptools.installer',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\installer.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\installer.py',
    'PYMODULE'),
   ('setuptools.logging',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\logging.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\logging.py',
    'PYMODULE'),
   ('setuptools.monkey',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\monkey.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\monkey.py',
    'PYMODULE'),
   ('setuptools.msvc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\msvc.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\msvc.py',
    'PYMODULE'),
   ('setuptools.unicode_utils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\unicode_utils.py',
    'PYMODULE'),
   ('setuptools.version',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\version.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\version.py',
    'PYMODULE'),
   ('setuptools.warnings',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\warnings.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\warnings.py',
    'PYMODULE'),
   ('setuptools.wheel',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\wheel.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\wheel.py',
    'PYMODULE'),
   ('setuptools.windows_support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'C:\\Users\\pablo\\AppData\\Roaming\\Python\\Python312\\site-packages\\setuptools\\windows_support.py',
    'PYMODULE'),
-  ('shlex',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
-   'PYMODULE'),
-  ('shutil',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
-   'PYMODULE'),
-  ('site',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
-   'PYMODULE'),
-  ('socket',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
-   'PYMODULE'),
+  ('shlex', 'C:\\Program Files\\Python312\\Lib\\shlex.py', 'PYMODULE'),
+  ('shutil', 'C:\\Program Files\\Python312\\Lib\\shutil.py', 'PYMODULE'),
+  ('signal', 'C:\\Program Files\\Python312\\Lib\\signal.py', 'PYMODULE'),
+  ('site', 'C:\\Program Files\\Python312\\Lib\\site.py', 'PYMODULE'),
+  ('socket', 'C:\\Program Files\\Python312\\Lib\\socket.py', 'PYMODULE'),
   ('socketserver',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'C:\\Program Files\\Python312\\Lib\\socketserver.py',
    'PYMODULE'),
-  ('ssl',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
-   'PYMODULE'),
+  ('ssl', 'C:\\Program Files\\Python312\\Lib\\ssl.py', 'PYMODULE'),
   ('statistics',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'C:\\Program Files\\Python312\\Lib\\statistics.py',
    'PYMODULE'),
-  ('string',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
-   'PYMODULE'),
+  ('string', 'C:\\Program Files\\Python312\\Lib\\string.py', 'PYMODULE'),
   ('stringprep',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'C:\\Program Files\\Python312\\Lib\\stringprep.py',
    'PYMODULE'),
   ('subprocess',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'C:\\Program Files\\Python312\\Lib\\subprocess.py',
    'PYMODULE'),
-  ('sysconfig',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
-   'PYMODULE'),
-  ('tarfile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
-   'PYMODULE'),
-  ('tempfile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
-   'PYMODULE'),
-  ('test',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\__init__.py',
-   'PYMODULE'),
+  ('sysconfig', 'C:\\Program Files\\Python312\\Lib\\sysconfig.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Program Files\\Python312\\Lib\\tarfile.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Program Files\\Python312\\Lib\\tempfile.py', 'PYMODULE'),
+  ('test', 'C:\\Program Files\\Python312\\Lib\\test\\__init__.py', 'PYMODULE'),
   ('test.support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\__init__.py',
    'PYMODULE'),
   ('test.support.import_helper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\import_helper.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\import_helper.py',
    'PYMODULE'),
   ('test.support.os_helper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\os_helper.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\os_helper.py',
    'PYMODULE'),
   ('test.support.script_helper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\script_helper.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\script_helper.py',
    'PYMODULE'),
   ('test.support.socket_helper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\socket_helper.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\socket_helper.py',
    'PYMODULE'),
   ('test.support.warnings_helper',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\support\\warnings_helper.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\support\\warnings_helper.py',
    'PYMODULE'),
   ('test.test_support',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\test\\test_support.py',
+   'C:\\Program Files\\Python312\\Lib\\test\\test_support.py',
    'PYMODULE'),
-  ('textwrap',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
-   'PYMODULE'),
-  ('threading',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
-   'PYMODULE'),
+  ('textwrap', 'C:\\Program Files\\Python312\\Lib\\textwrap.py', 'PYMODULE'),
+  ('threading', 'C:\\Program Files\\Python312\\Lib\\threading.py', 'PYMODULE'),
   ('tkinter',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\__init__.py',
    'PYMODULE'),
   ('tkinter.commondialog',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\commondialog.py',
    'PYMODULE'),
   ('tkinter.constants',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\constants.py',
    'PYMODULE'),
   ('tkinter.dialog',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\dialog.py',
    'PYMODULE'),
   ('tkinter.filedialog',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\filedialog.py',
    'PYMODULE'),
   ('tkinter.messagebox',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\messagebox.py',
    'PYMODULE'),
   ('tkinter.simpledialog',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'C:\\Program Files\\Python312\\Lib\\tkinter\\simpledialog.py',
    'PYMODULE'),
-  ('token',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
-   'PYMODULE'),
+  ('token', 'C:\\Program Files\\Python312\\Lib\\token.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Program Files\\Python312\\Lib\\tokenize.py', 'PYMODULE'),
   ('tracemalloc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'C:\\Program Files\\Python312\\Lib\\tracemalloc.py',
    'PYMODULE'),
-  ('tty',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
-   'PYMODULE'),
-  ('typing',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
-   'PYMODULE'),
+  ('tty', 'C:\\Program Files\\Python312\\Lib\\tty.py', 'PYMODULE'),
+  ('typing', 'C:\\Program Files\\Python312\\Lib\\typing.py', 'PYMODULE'),
   ('unittest',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\__init__.py',
    'PYMODULE'),
   ('unittest._log',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\_log.py',
    'PYMODULE'),
   ('unittest.async_case',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\async_case.py',
    'PYMODULE'),
   ('unittest.case',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\case.py',
    'PYMODULE'),
   ('unittest.loader',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\loader.py',
    'PYMODULE'),
   ('unittest.main',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\main.py',
    'PYMODULE'),
   ('unittest.mock',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\mock.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\mock.py',
    'PYMODULE'),
   ('unittest.result',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\result.py',
    'PYMODULE'),
   ('unittest.runner',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\runner.py',
    'PYMODULE'),
   ('unittest.signals',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\signals.py',
    'PYMODULE'),
   ('unittest.suite',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\suite.py',
    'PYMODULE'),
   ('unittest.util',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'C:\\Program Files\\Python312\\Lib\\unittest\\util.py',
    'PYMODULE'),
   ('urllib',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\__init__.py',
    'PYMODULE'),
   ('urllib.error',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\error.py',
    'PYMODULE'),
   ('urllib.parse',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\parse.py',
    'PYMODULE'),
   ('urllib.request',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\request.py',
    'PYMODULE'),
   ('urllib.response',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'C:\\Program Files\\Python312\\Lib\\urllib\\response.py',
    'PYMODULE'),
-  ('uu',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uu.py',
-   'PYMODULE'),
+  ('uu', 'C:\\Program Files\\Python312\\Lib\\uu.py', 'PYMODULE'),
   ('webbrowser',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'C:\\Program Files\\Python312\\Lib\\webbrowser.py',
    'PYMODULE'),
-  ('xml',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
-   'PYMODULE'),
+  ('xml', 'C:\\Program Files\\Python312\\Lib\\xml\\__init__.py', 'PYMODULE'),
   ('xml.parsers',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\__init__.py',
    'PYMODULE'),
   ('xml.parsers.expat',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\parsers\\expat.py',
    'PYMODULE'),
   ('xml.sax',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\__init__.py',
    'PYMODULE'),
   ('xml.sax._exceptions',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\_exceptions.py',
    'PYMODULE'),
   ('xml.sax.expatreader',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\expatreader.py',
    'PYMODULE'),
   ('xml.sax.handler',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\handler.py',
    'PYMODULE'),
   ('xml.sax.saxutils',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\saxutils.py',
    'PYMODULE'),
   ('xml.sax.xmlreader',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'C:\\Program Files\\Python312\\Lib\\xml\\sax\\xmlreader.py',
    'PYMODULE'),
   ('xmlrpc',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\__init__.py',
    'PYMODULE'),
   ('xmlrpc.client',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'C:\\Program Files\\Python312\\Lib\\xmlrpc\\client.py',
    'PYMODULE'),
   ('zipfile',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\__init__.py',
    'PYMODULE'),
   ('zipfile._path',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\__init__.py',
    'PYMODULE'),
   ('zipfile._path.glob',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'C:\\Program Files\\Python312\\Lib\\zipfile\\_path\\glob.py',
    'PYMODULE'),
-  ('zipimport',
-   'C:\\Users\\Pablo '
-   'Guillermet\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
-   'PYMODULE')])
+  ('zipimport', 'C:\\Program Files\\Python312\\Lib\\zipimport.py', 'PYMODULE')])
